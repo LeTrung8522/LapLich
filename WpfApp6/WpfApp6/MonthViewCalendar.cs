@@ -22,6 +22,7 @@ namespace WpfApp6
         public event PropertyChangedEventHandler PropertyChanged;
 
         #endregion
+       aaasdad
         public static DependencyProperty AppointmentsProperty =
             DependencyProperty.Register
             (
